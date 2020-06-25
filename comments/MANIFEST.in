@@ -1,0 +1,7 @@
+include comments/comments.min.js
+include comments/comments.min.js.map
+include comments/metadata.json
+include comments/package-info.json
+include README.md
+include LICENSE
+include package.json
